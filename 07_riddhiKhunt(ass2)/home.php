@@ -22,3 +22,4 @@ if(isset($_POST['but_logout'])){
         </form>
     </body>
 </html>
+Hello
